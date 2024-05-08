@@ -60,4 +60,4 @@ Este projeto é uma base sólida para a construção de uma plataforma de gestã
 
 ## Imagens
 
-<a href="https://drive.google.com/drive/folders/10i26Kxg6bwN07jGA1Om-QVF_GC2pma3l?usp=sharing" target="_blank">
+<a href="https://drive.google.com/drive/folders/10i26Kxg6bwN07jGA1Om-QVF_GC2pma3l?usp=sharing" target="_blank">Link para a pasta com as imagens
